@@ -1,5 +1,11 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Christian Alonso Flores Burgos
+
+Fecha
+19 de septiembre de 2025
+
+Calcular el sueldo semanal de un empleado considerando que las horas trabajadas por encima de 48 se pagan al doble.
+
 """
 
 
