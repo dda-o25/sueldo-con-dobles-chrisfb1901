@@ -13,8 +13,8 @@ Calcular el sueldo semanal de un empleado considerando que las horas trabajadas 
 horas_normales=48
 
 #Entradas
-horas_trabajadas = int(input("Horas trabajadas: "))
-tarifa_hora = int(input("Tarifa por hora: "))
+horas_trabajadas = float(input("Horas trabajadas: "))
+tarifa_hora = float(input("Tarifa por hora: "))
 
 # Proceso
 if horas_trabajadas > horas_normales:
